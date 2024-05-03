@@ -1,0 +1,14 @@
+{
+  "name": "web-snippet-runner",
+  "version": "1.0.0",
+  "description": "A tool for running JavaScript snippets on webpages",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.5.3",
+    "node-fetch": "^3.1.0",
+    "path": "^0.12.7",
+    "puppeteer": "^22.7.1"
+  }
+}
